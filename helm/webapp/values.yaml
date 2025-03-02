@@ -8,7 +8,7 @@ image:
   repository: svillarrealparticle41/argocd-sv-poc
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 0749f902c21ddbea8352c4aa5505b19b0cd86688
+  tag: 4f391fcad8a89019258e4af16ca88dd8156e6405
 
 imagePullSecrets: []
 nameOverride: ""
